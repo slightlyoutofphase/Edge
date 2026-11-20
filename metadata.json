@@ -1,0 +1,5 @@
+{
+  "name": "Edge",
+  "description": "A 2D side-scrolling action game featuring a directional, stance-based melee combat system inspired by Kingdom Come: Deliverance's weapon positioning and Dark Souls' stamina/timing mechanics. All graphics rendered as SVG for crisp scaling and procedural animation. Combat rewards observation, timing, and reading opponent tells over button mashing.",
+  "requestFramePermissions": []
+}

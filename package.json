@@ -1,0 +1,25 @@
+{
+  "name": "edge",
+  "private": true,
+  "version": "0.5.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "format": "npx prettier --write .",
+    "clean": "node scripts/clean.mjs"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@vitejs/plugin-react": "latest",
+    "typescript": "latest",
+    "vite": "latest"
+  }
+}
